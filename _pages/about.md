@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Research Fellow at the [NExT++](https://www.nextcenter.org) Lab, National University of Singapore, working with Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/).  I first joined NExT++ as a visiting Ph.D. student from December 2022 to September 2024. In 2025, I completed my Ph.D. in Computer Science and Technology at Hunan University under the supervision of Assoc. Prof. [Da Cao](https://sites.google.com/view/caoda). My research focuses on enabling trustworthy multimodal learning by ensuring interpretablity and causality in AI models, integrating techniques for knowledge retrieval and reasoning, and developing self-correction mechanisms to enhance self-improvement capabilities, with human-in-the-loop frameworks to support reliable human-AI interaction. Based on these methods, I aim to build intelligent multimodal reasoning systems that can understand the world beyond human perception.
+I am currently a Postdoctoral Research Fellow at the [NExT++](https://www.nextcenter.org) Lab, National University of Singapore, working with Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). I first joined NExT++ as a visiting Ph.D. student from December 2022 to September 2024. In 2025, I completed my Ph.D. in Computer Science and Technology at Hunan University under the supervision of Assoc. Prof. [Da Cao](https://sites.google.com/view/caoda). My research focuses on enabling trustworthy multimodal learning by ensuring interpretablity and causality in AI models, integrating techniques for knowledge retrieval and reasoning, and developing self-correction mechanisms to enhance self-improvement capabilities, with human-in-the-loop frameworks to support reliable human-AI interaction. Based on these methods, I aim to build intelligent multimodal reasoning systems that can understand the world beyond human perception.
 
-I have authored over 10 publications in top-tier venues—including ICLR, ACMMM, EMNLP, BIBM, TNNLS, KBS, ESWA, and regularly review for ICLR, ACMMM, and Neural Networks.
+I have authored over 10 publications in top-tier venues—including ICLR, ACMMM, EMNLP, BIBM, TNNLS, KBS, ESWA, and regularly review for ICLR, ACMMM, ACL and Neural Networks.
 
 # 🔥 News
 
