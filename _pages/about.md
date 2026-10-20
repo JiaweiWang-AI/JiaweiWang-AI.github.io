@@ -17,15 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Research Fellow at the [NExT++](https://www.nextcenter.org) Lab, National University of Singapore, working with Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). I first joined NExT++ as a visiting Ph.D. student from December 2022 to September 2024. In 2025, I completed my Ph.D. in Computer Science and Technology at Hunan University under the supervision of Assoc. Prof. [Da Cao](https://sites.google.com/view/caoda). My research focuses on enabling trustworthy multimodal learning by ensuring interpretablity and causality in AI models, integrating techniques for knowledge retrieval and reasoning, and developing self-correction mechanisms to enhance self-improvement capabilities, with human-in-the-loop frameworks to support reliable human-AI interaction. Based on these methods, I aim to build intelligent multimodal reasoning systems that can understand the world beyond human perception.
+I am currently a Postdoctoral Research Fellow at the [NExT++](https://www.nextcenter.org) Lab, National University of Singapore, working with Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/). I first joined NExT++ as a visiting Ph.D. student from December 2022 to September 2024. In 2025, I completed my Ph.D. in Computer Science and Technology at Hunan University under the supervision of Assoc. Prof. [Da Cao](https://sites.google.com/view/caoda).
 
-I have authored over 10 publications in top-tier venues—including ICLR, ACMMM, EMNLP, BIBM, TNNLS, KBS, ESWA, and regularly review for ICLR, ACMMM, ACL and Neural Networks.
+My research aims to build trustworthy multimodal reasoning systems capable of recursive self-improvement (RSI).
 
-# 🔥 News
+- **Multimodal Reasoning & Domain Agents:** Grounding multimodal reasoning in domain knowledge for reliable decisions and actions.
+- **Recursive Self-Improvement:** Using agentic reinforcement learning and reusable memory to drive self-evolution and improve how agents learn and adapt.
+- **Trustworthy Multi-Agent Systems:** Enabling reliable and safe collaboration among agents and with people, while evolving interaction strategies through memory.
 
-- *2025.04*: One paper is accepted by ICLR 2025.
+I welcome motivated students interested in these directions. Explore my [ongoing research](/ongoing/) and [internship opportunities](#-prospective-interns).
+
+I have authored over 10 publications in top-tier venues—including ICLR, KDD, ACMMM, EMNLP, BIBM, TNNLS, KBS, and ESWA—and regularly serve as a reviewer for ICLR, NeurIPS, SIGIR, ACMMM, ACL, and TNNLS.
 
 # 📝 Publications
+
+<sup>&#42;</sup> Co-first author &nbsp;&nbsp; <sup>#</sup> Corresponding author
+
+- ``BIBM 2026`` Length-Aligned Fine-Tuning of Genomic Language Models for Deletion Variant Pathogenicity Prediction, Zixuan Huang, Yuquan Le, **Jiawei Wang**, Yaning Yang.
+
+- ``BIBM 2026`` TPVEPR: Relation-Aware Set Transformer for Tissue-Specific Promoter eQTL Prioritization, Yaning Yang, Yixin Peng, Yuquan Le, **Jiawei Wang**, Haitao Zou, Shaoliang Peng.
+
+- ``BIBM 2026`` Boundary-aware Segment Anything Model for Skin Lesion Segmentation, Quan Hong, Weisheng Wang, Yuquan Le, **Jiawei Wang**, Kai Huang, Hua Liang, Zhenhua Tang, Zhe Quan.
+
+- ``Information Sciences 2026`` [LLM4ELCM: Multi-view enhanced large language models for explainable legal case matching](https://doi.org/10.1016/j.ins.2026.124199), Congqing He, Haichuan Hu, Hao Zhang, Yuquan Le, **Jiawei Wang**, Jacky Chi Kit Ng.
+
+- ``KDD 2026`` [DeepTaxon: An Interpretable Retrieval-Augmented Multimodal Framework for Unified Species Identification and Discovery](https://dl.acm.org/doi/10.1145/3770855.3818997), **Jiawei Wang**, Ming Lei, Yaning Yang, Xinyan Lin, Yuquan Le, Qiwei Ma, Zhiwei Xu, Zheqi Lv, Yuchen Ang, Zhe Quan, Tat-Seng Chua.
 
 - ``ICLR 2025`` [Neural Causal Graph for Interpretable and Intervenable Classification](https://openreview.net/forum?id=nmvmPIi185), **Jiawei Wang**, Shaofei Lu, Da Cao, Dongyu Wang, Yuquan Le, Zhe Quan, Tat-Seng Chua.
 
@@ -33,19 +49,23 @@ I have authored over 10 publications in top-tier venues—including ICLR, ACMMM,
 
 - ``KBS 2025`` [Weakly-supervised Spatial-Temporal Video Grounding via Spatial-Temporal Annotation on a Single Frame](https://www.sciencedirect.com/science/article/pii/S0950705125002473), Shu Luo, Shijie Jiang, Da Cao, Huangxiao Deng, **Jiawei Wang**, Zheng Qin.
 
+- ``Information Sciences 2025`` [AutoVMR: An Autonomous Event Generation and Localization Approach for Video Moment Retrieval](https://www.sciencedirect.com/science/article/pii/S0020025525007480), Shu Luo, Qiwei Ma, **Jiawei Wang**, Da Cao, Shaofei Lu.
+
 - ``TNNLS 2024`` [Graph Reasoning With Supervised Contrastive Learning for Legal Judgment Prediction](https://ieeexplore.ieee.org/document/10378955), **Jiawei Wang**, Yuquan Le, Da Cao, Shaofei Lu, Zhe Quan, Meng Wang.
 
-- ``TASLP 2024`` [R²: A Novel Recall & Ranking Framework for Legal Judgment Prediction](https://ieeexplore.ieee.org/document/10439618), Yuquan Le, Zhe Quan, **Jiawei Wang**, Da Cao, Kenli Li.
+- ``TASLP 2024`` [R²: A Novel Recall & Ranking Framework for Legal Judgment Prediction](https://ieeexplore.ieee.org/document/10439618), Yuquan Le<sup>&#42;</sup>, Zhe Quan<sup>#</sup>, **Jiawei Wang**<sup>&#42;</sup>, Da Cao, Kenli Li.
 
 - ``ACMMM 2024`` [Causal-driven Large Language Models with Faithful Reasoning for Knowledge Question Answering](https://dl.acm.org/doi/10.1145/3664647.3681263), **Jiawei Wang**, Da Cao, Shaofei Lu, Zhanchang Ma, Junbin Xiao, Tat-Seng Chua.
 
 - ``BIBM 2024`` [TranSVPath: A TabTransformer-Based Model for Predicting the Pathogenicity of Structural Variants](https://ieeexplore.ieee.org/document/10822287), Yaning Yang, **Jiawei Wang**, Xiaoqi Wang, Liwen Xu, Liangrui Pan, Shaoliang Peng.
   
+- ``CSIS-IAC 2024`` [DCSE: Domain Confusion with Self-Ensembling for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10919400), Zhijie Lin, **Jiawei Wang**, Zhaoshui He, Hao Liang, Juan An, Wenqing Su.
+
 - ``ACMMM 2023`` [Deconfounded Multimodal Learning for Spatio-temporal Video Grounding](https://dl.acm.org/doi/10.1145/3581783.3613822), **Jiawei Wang**, Zhanchang Ma, Da Cao, Yuquan Le, Junbin Xiao, Tat-Seng Chua.
 
-- ``NeurIPS 2021 (MATHAI4ED)`` [REAL2: An End-to-end Memory-augmented Solver for Math Word Problems](https://neurips.cc/virtual/2021/33827), Shifeng Huang, **Jiawei Wang**, Jiao Xu, Da Cao, Ming Yang.
+- ``NeurIPS 2021 (MATHAI4ED)`` [REAL2: An End-to-end Memory-augmented Solver for Math Word Problems](https://neurips.cc/virtual/2021/33827), Shifeng Huang<sup>&#42;</sup>, **Jiawei Wang**<sup>&#42;</sup>, Jiao Xu, Da Cao, Ming Yang.
 
-- ``EMNLP Findings 2021`` [Recall and Learn: A Memory-augmented Solver for Math Word Problems](https://aclanthology.org/2021.findings-emnlp.68/), Shifeng Huang, **Jiawei Wang**, Jiao Xu, Da Cao, Ming Yang.
+- ``EMNLP Findings 2021`` [Recall and Learn: A Memory-augmented Solver for Math Word Problems](https://aclanthology.org/2021.findings-emnlp.68/), Shifeng Huang<sup>&#42;</sup>, **Jiawei Wang**<sup>&#42;#</sup>, Jiao Xu, Da Cao, Ming Yang.
 
 - ``Neurocomputing 2020`` [Domain Adaptation with SBADA-GAN and Mean Teacher](https://www.sciencedirect.com/science/article/pii/S0925231219304941), Chengjian Feng, Zhaoshui He, **Jiawei Wang**, Qinzhuang Lin, Zhouping Zhu, Jun Lu, Shengli Xie.
 
@@ -59,10 +79,8 @@ I have authored over 10 publications in top-tier venues—including ICLR, ACMMM,
 
 # 🎉 Prospective Interns
 
-I welcome applications from self-motivated students interested in exploring:
+I welcome applications from self-motivated students interested in these [research directions](/ongoing/).
 
-- **Data Synthesis:** Active-learning MLLMs with explainable reinforcement learning pipelines.
-- **Visual Reasoning:** Tool-augmented MLLMs with external visual capabilities and knowledge.
-- **Human-AI Interaction:** Human-in-the-loop frameworks for interactive, responsible AI.
+If you are passionate about advancing scalable, trustworthy, and self-evolving multimodal agents, please send your CV, academic transcripts, and a brief research statement to **[jiaweiwang@nus.edu.sg](mailto:jiaweiwang@nus.edu.sg)**. I look forward to collaborating with you at NExT++! (2 positions available)
 
-If you are passionate about advancing multimodal reasoning and AI trustworthiness, please send your CV, academic transcripts, and a brief research statement to **[wangjiawei0531@gmail.com](mailto:wangjiawei0531@gmail.com)**. I look forward to collaborating with you at NExT++! (2 positions available)
+In your message, feel free to mention the topic you would most like to explore.
